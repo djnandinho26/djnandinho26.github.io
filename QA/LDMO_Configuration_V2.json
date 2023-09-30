@@ -1,0 +1,99 @@
+{
+	"LanuncherInfo": {
+		"CurrentVersion": 3,
+		"DownloadPath": "http://movegames-cdn.gameking.com/Movegames/431956/DMO/Alpha_UpdateLauncher/latin/Launcher/",
+		"ExeFileName": "DMLauncher.exe",
+		"RunExeFileName": "DigimonMasters.exe",
+		"VersionList": [{
+			"DownloadFile": "Launcher_1.zip",
+			"Version": 1
+		}, {
+			"DownloadFile": "Launcher_2.zip",
+			"Version": 2
+		}, {
+			"DownloadFile": "Launcher_3.zip",
+			"Version": 3
+		}, {
+			"DownloadFile": "Launcher_4.zip",
+			"Version": 4
+		}, {
+			"DownloadFile": "Launcher_5.zip",
+			"Version": 5
+		}, {
+			"DownloadFile": "Launcher_6.zip",
+			"Version": 6
+		}, {
+			"DownloadFile": "Launcher_7.zip",
+			"Version": 7
+		}, {
+			"DownloadFile": "Launcher_8.zip",
+			"Version": 8
+		}, {
+			"DownloadFile": "Launcher_9.zip",
+			"Version": 9
+		}]
+	},
+	"MainUrl": [{
+		"GameDownloadUrl": "https://spladmo.gameking.com/download/GameDownload.aspx",
+		"HomePageUrl": "http://spladmo.gameking.com",
+		"MainPageUrl": "http://spladmo.gameking.com/Main/InGame/LauncherNotice.aspx",
+		"TypeName": "LatinAmerica"
+	}],
+	"PatchInfo": {
+		"DownloadUrl": "http://movegames-cdn.gameking.com/Movegames/431956/DMO/Alpha_UpdatePatch/latin/",
+		"MinPatchVersion": 1,
+		"PatchVersion": 740
+	},
+	"Redist": {
+		"Command": "/install /passive /norestart",
+		"Execute": "vcredist_x86.exe",
+		"Regstry": [{
+			"Reg": "SOFTWARE\\Microsoft\\VisualStudio\\14.0\\VC\\Runtimes\\X86"
+		}, {
+			"Reg": "SOFTWARE\\WOW6432Node\\Microsoft\\VisualStudio\\14.0\\VC\\Runtimes\\X86"
+		}]
+	},
+	"RumbleConfig": "",
+	"ServerInfo": {
+		"Maintenance": false,
+		"Message": {
+			"Msg": "The server is undergoing inspection or updates.\nConnect to <https://ptladmo.gameking.com or https://spladmo.gameking.com> for more information",
+			"Title": ""
+		}
+	},
+	"SupportLanguage": [{
+		"TypeName": "PortuguÃªs",
+		"Value": 107
+	}, {
+		"TypeName": "EspaÃ±ol",
+		"Value": 106
+	}],
+	"UMInfo": {
+		"CurrentVersion": 7,
+		"DownloadPath": "http://movegames-cdn.gameking.com/Movegames/431956/DMO/Alpha_UpdateLauncher/latin/UpdateManager/",
+		"ExeFileName": "UpdateManager.exe",
+		"RunExeFileName": "DMLauncher.exe",
+		"VersionList": [{
+			"DownloadFile": "UM_1.zip",
+			"Version": 1
+		}, {
+			"DownloadFile": "UM_2.zip",
+			"Version": 2
+		}, {
+			"DownloadFile": "UM_3.zip",
+			"Version": 3
+		}, {
+			"DownloadFile": "UM_4.zip",
+			"Version": 4
+		}, {
+			"DownloadFile": "UM_5.zip",
+			"Version": 5
+		}, {
+			"DownloadFile": "UM_6.zip",
+			"Version": 6
+		}, {
+			"DownloadFile": "UM_7.zip",
+			"Version": 7
+		}]
+	}
+}
