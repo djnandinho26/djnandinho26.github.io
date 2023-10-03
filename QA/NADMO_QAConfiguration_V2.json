@@ -33,7 +33,7 @@
                 }]
             },
 		"RumbleConfig":"http://dmo.gameking.com/digimon/cdn/rumble/qa/RumbleConfig.json",
-		"ServerInfo":{"Maintenance":true,
+		"ServerInfo":{"Maintenance":false,
 		"Message":{"Msg":"The server is undergoing inspection or updates.\nConnect to <http://dmo.gameking.com> for more information",
 		"Title":""}},
 		"SupportLanguage":[{"TypeName":"English",
