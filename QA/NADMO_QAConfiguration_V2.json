@@ -24,7 +24,7 @@
 	"PatchInfo": {
 		"DownloadUrl": "http://movegames-cdn.gameking.com/Movegames/431956/DMO/Alpha_UpdatePatch/usa/",
 		"MinPatchVersion": 1496,
-		"PatchVersion": 1802
+		"PatchVersion": 1806
 	},
 	"Redist": {
 		"Command": "/install /passive /norestart",

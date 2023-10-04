@@ -29,7 +29,7 @@
 	"PatchInfo": {
 		"DownloadUrl": "https://movegames-cdn.gameking.com/Movegames/431956/DMO/Alpha_UpdatePatch/kor/",
 		"MinPatchVersion": 2877,
-		"PatchVersion": 3220
+		"PatchVersion": 3221
 	},
 	"Redist": {
 		"Command": "/install /passive /norestart",
